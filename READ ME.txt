@@ -1,0 +1,20 @@
+___________________________________________________________________________________________________
+COPY RIGHTS:
+-----------------
+This copy of the code implemented on the thesis has been supplied 
+on condition that anyone who consults it is understood
+to recognise that its copyright rests with the author and that no
+quotation from the thesis, nor any information derived therefrom, may be
+published without the author’s prior written consent. 
+___________________________________________________________________________________________________
+ACKNOWLEDGEMENTS:
+-----------------
+
+The following code was written by Nicholas Menghi, William Penny and Maria Paula Bossa. 
+___________________________________________________________________________________________________
+
+
+
+
+
+
